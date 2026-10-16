@@ -85,45 +85,45 @@ Base URL: `/api/steam`
 - `createdAt`, `updatedAt` — วันที่สร้างและแก้ไขข้อมูล
 
 ## หลักฐานการดีบัก
-/api/games
-GET 
-pass case
+## /api/games
+## GET 
+## pass case
 <img width="1162" height="155" alt="image" src="https://github.com/user-attachments/assets/02f29d0f-0d33-4e7b-936d-dc49b5f37c19" />
-fail case
+## fail case
 <img width="450" height="281" alt="image" src="https://github.com/user-attachments/assets/cc928b54-995c-47fe-843d-16c2b3fc081a" />
 
-POST
-pass case
+## POST
+## pass case
 <img width="1177" height="185" alt="image" src="https://github.com/user-attachments/assets/6ec5b622-cba5-4960-ab4c-fadafe53e564" />
-fail case
+## fail case
 <img width="643" height="142" alt="image" src="https://github.com/user-attachments/assets/3f10381b-cf6f-49d6-8dc4-530f1df9fee7" />
 
-PUT
-pass case
+## PUT
+## pass case
 <img width="1177" height="177" alt="image" src="https://github.com/user-attachments/assets/24263ff8-3d9c-4271-94ed-c82927aef4ef" />
-fail case
+## fail case
 <img width="933" height="126" alt="image" src="https://github.com/user-attachments/assets/b7247668-cc2f-4f34-a6d7-551ca41a897e" />
 <img width="475" height="105" alt="image" src="https://github.com/user-attachments/assets/cfb3179b-bbe5-4463-9868-e3faa46de070" />
 
-DELETE
-pass case
+## DELETE
+## pass case
 <img width="697" height="103" alt="image" src="https://github.com/user-attachments/assets/cb435cb0-f04f-4ac0-a287-616d7013350f" />
-fail case
+## fail case
 <img width="657" height="101" alt="image" src="https://github.com/user-attachments/assets/b7a198bb-b3dd-4e51-be79-a0812a268307" />
 <img width="542" height="101" alt="image" src="https://github.com/user-attachments/assets/3dedda5a-d5ae-46f2-9152-d6a017f54998" />
 
-/api/steam/search
-GET
-pass case
+## /api/steam/search
+## GET
+## pass case
 <img width="1345" height="247" alt="image" src="https://github.com/user-attachments/assets/b217e880-ed58-4e7e-bfc5-7a4723673c94" />
-fail case (empty)
+## fail case (empty)
 <img width="596" height="106" alt="image" src="https://github.com/user-attachments/assets/9e1328c7-8670-4a4b-97af-569766ede121" />
 
-/api/steam/details/:appid
-GET
-pass case
+## /api/steam/details/:appid
+## GET
+## pass case
 <img width="1295" height="95" alt="image" src="https://github.com/user-attachments/assets/f23e45c3-6783-4297-ac85-efa795e1ed41" />
-fail case
+## fail case
 <img width="513" height="111" alt="image" src="https://github.com/user-attachments/assets/f4b7df0e-2adc-401c-b035-b9bcd54f31c2" />
 <img width="665" height="110" alt="image" src="https://github.com/user-attachments/assets/2c443c73-719c-49f6-9854-5498677078d0" />
 
